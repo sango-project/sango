@@ -1,4 +1,4 @@
-# Bienvenue dans le Le projet Sango un reseau social
+# Bienvenue dans le projet Sango un reseau social
 
 # Structure:
 Le dossier est organisé de la façon suivante
