@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@hapi/hapi": "^21.3.12",
-    "@hapi/joi": "^17.1.1"
+    "@hapi/joi": "^17.1.1",
+    "@hapi/nes": "^14.0.1",
+    "joi": "^17.13.3"
   }
 }
